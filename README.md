@@ -24,30 +24,14 @@
 <table>
   <tr>
     <td>Datastory on YouTube political content based on <a href="https://github.com/epfl-dlab/YouNiverse" target="_blank">Youniverse</a> dataset.</td>
-    <td><a href="outliersprojects.github.io" target="_blank">Youtube and the myth of Political Neutrality</a>
+    <td><a href="https://outliersprojects.github.io" target="_blank">Youtube and the myth of Political Neutrality</a>
   </tr>
   
   <tr>
-    <td>Reproducing results for Adaptive Stochastic Variance Reduction for Non-convex Finite-Sum Minimization method (<b>AdaSpider</b>)</td>
+    <td>Reproducing results for Adaptive Stochastic Variance Reduction for Non-convex Finite-Sum Minimization (<b>AdaSPIDER</b>)</td>
     <td><a href="adaptive_stochastic_variance.pdf" target="_blank">Reproducibility Challenge 2022</a>
   </tr>
 </table>
 
 ![](https://komarev.com/ghpvc/?username=patrick-bedkowski)
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patryk-bedkowski/)
-
-
-<!--
-**patrick-bedkowski/patrick-bedkowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
