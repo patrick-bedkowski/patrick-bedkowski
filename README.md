@@ -31,6 +31,16 @@
     <td>Reproducing results for Adaptive Stochastic Variance Reduction for Non-convex Finite-Sum Minimization (<b>AdaSPIDER</b>)</td>
     <td><a href="adaptive_stochastic_variance.pdf" target="_blank">Reproducibility Challenge 2022</a>
   </tr>
+  
+  <tr>
+    <td>Does language used in the headline determines the number of people that will read the associated news piece? Upworthy study.</td>
+    <td><a href="https://github.com/patrick-bedkowski/Applied-Data-Analysis/tree/main/article%20headlines%20upworthy%20study" target="_blank">Applied data analysis project 1</a>
+  </tr>
+  
+  <tr>
+    <td>Do players of Club Tokyo football team have common attributes that dictate their successfulness?</td>
+    <td><a href="https://github.com/patrick-bedkowski/Applied-Data-Analysis/tree/main/Club%20Tokyo%20football%20team%20analysis" target="_blank">Applied data analysis project 2</a>
+  </tr>
 </table>
 
 ![](https://komarev.com/ghpvc/?username=patrick-bedkowski)
