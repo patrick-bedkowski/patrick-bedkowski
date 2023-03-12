@@ -43,7 +43,7 @@
   </tr>
 </table>
 
-### Currently working on
+### Currently working on :microscope:
 
 * Generative models for Fast CERN Simulations of particle collisions 
 
