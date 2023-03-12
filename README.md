@@ -43,5 +43,9 @@
   </tr>
 </table>
 
+### Currently working on
+
+* Generative models for Fast CERN Simulations of particle collisions 
+
 ![](https://komarev.com/ghpvc/?username=patrick-bedkowski)
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patryk-bedkowski/)
