@@ -45,7 +45,7 @@
 
 ### Currently working on :microscope:
 
-* Generative models for Fast CERN Simulations of particle collisions 
+* Generative models for Fast CERN Simulations of particle collision responses
 
 ![](https://komarev.com/ghpvc/?username=patrick-bedkowski)
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patryk-bedkowski/)
