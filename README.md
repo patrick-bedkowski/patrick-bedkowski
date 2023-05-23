@@ -43,9 +43,11 @@
   </tr>
 </table>
 
-### Currently working on :microscope:
-
+### Currently working on 🔬
 * Generative models for Fast CERN Simulations of particle collision responses
+
+### Latest achievements 🏆
+* Supervision Hackathon 2023 Warsaw - 3rd place - **Solution for detecting fraudulent ads among sites and browser queries**
 
 ![](https://komarev.com/ghpvc/?username=patrick-bedkowski)
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patryk-bedkowski/)
