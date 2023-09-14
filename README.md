@@ -58,7 +58,7 @@
 </table>
 
 ### Currently working on 🔬
-* <a href="https://github.com/patrick-bedkowski/Generative-Models-for-CERN-Fast-Simulations" target="_blank">Generative models for Fast CERN Simulations of particle collision responses</a>
+* <a href="https://github.com/patrick-bedkowski/Generative-Models-for-CERN-Fast-Simulations" target="_blank">Fast Generative Machine Learning Simulations for High Energy Physics experiments at ALICE, CERN</a>
 
 ### Latest achievements 🏆
 * <a href="https://www.linkedin.com/posts/rokwojtek_fakejobhunter-adsdetect-uknf-activity-7066403449067712513-Ngvo?utm_source=share&utm_medium=member_desktop" target="_blank">Supervision Hackathon 2023 Warsaw</a> - 3rd place - **Solution for detecting fraudulent ads among sites and browser queries**
