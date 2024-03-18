@@ -37,7 +37,7 @@
 <table>
   <tr>
     <td>Deep Generative Models for Proton Zero Degree Calorimeter Simulations in ALICE, CERN, PPRAI 2024 Conference</td>
-    <td>Accepted. Final version to be published/a>
+    <td>Accepted. Final version to be published</td>
   </tr>
   <tr>
     <td>Reproducing results for Adaptive Stochastic Variance Reduction for Non-convex Finite-Sum Minimization (<b>AdaSPIDER</b>)</td>
