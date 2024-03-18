@@ -60,10 +60,6 @@
     <td>Do players of Club Tokyo football team have common attributes that dictate their successfulness?</td>
     <td><a href="https://github.com/patrick-bedkowski/Applied-Data-Analysis/tree/main/Club%20Tokyo%20football%20team%20analysis" target="_blank">Applied data analysis project 2</a>
   </tr>
-  <tr>
-    <td>Supervision Hackathon 2023 Warsaw</a> - 3rd place - **Solution for detecting fraudulent ads among sites and browser queries*</td>
-    <td><a href="https://www.linkedin.com/posts/rokwojtek_fakejobhunter-adsdetect-uknf-activity-7066403449067712513-Ngvo?utm_source=share&utm_medium=member_desktop" target="_blank">Applied data analysis project 2</a>
-  </tr>
 </table>
 
 ### Currently working on 🔬
