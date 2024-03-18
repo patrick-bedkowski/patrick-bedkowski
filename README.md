@@ -33,35 +33,44 @@
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
+### Published Papers :newspaper:
+<table>
+  <tr>
+    <td>Deep Generative Models for Proton Zero Degree Calorimeter Simulations in ALICE, CERN, PPRAI 2024 Conference</td>
+    <td><a href="adaptive_stochastic_variance.pdf" target="_blank">Reproducibility Challenge 2022</a>
+  </tr>
+  <tr>
+    <td>Reproducing results for Adaptive Stochastic Variance Reduction for Non-convex Finite-Sum Minimization (<b>AdaSPIDER</b>)</td>
+    <td><a href="adaptive_stochastic_variance.pdf" target="_blank">Reproducibility Challenge 2022</a>
+  </tr>
+</table>
+
 ### My recent projects ⭐
 
 <table>
   <tr>
     <td>Datastory on YouTube political content based on <a href="https://github.com/epfl-dlab/YouNiverse" target="_blank">Youniverse</a> dataset.</td>
     <td><a href="https://outliersprojects.github.io" target="_blank">Youtube and the myth of Political Neutrality</a>
-  </tr>
-  
-  <tr>
-    <td>Reproducing results for Adaptive Stochastic Variance Reduction for Non-convex Finite-Sum Minimization (<b>AdaSPIDER</b>)</td>
-    <td><a href="adaptive_stochastic_variance.pdf" target="_blank">Reproducibility Challenge 2022</a>
-  </tr>
-  
+  </tr>  
   <tr>
     <td>Does language used in the headline determines the number of people that will read the associated news piece? Upworthy study.</td>
     <td><a href="https://github.com/patrick-bedkowski/Applied-Data-Analysis/tree/main/article%20headlines%20upworthy%20study" target="_blank">Applied data analysis project 1</a>
   </tr>
-  
   <tr>
     <td>Do players of Club Tokyo football team have common attributes that dictate their successfulness?</td>
     <td><a href="https://github.com/patrick-bedkowski/Applied-Data-Analysis/tree/main/Club%20Tokyo%20football%20team%20analysis" target="_blank">Applied data analysis project 2</a>
   </tr>
+  <tr>
+    <td>Supervision Hackathon 2023 Warsaw</a> - 3rd place - **Solution for detecting fraudulent ads among sites and browser queries*</td>
+    <td><a href="https://www.linkedin.com/posts/rokwojtek_fakejobhunter-adsdetect-uknf-activity-7066403449067712513-Ngvo?utm_source=share&utm_medium=member_desktop" target="_blank">Applied data analysis project 2</a>
+  </tr>
 </table>
 
 ### Currently working on 🔬
-* <a href="https://github.com/patrick-bedkowski/Generative-Models-for-CERN-Fast-Simulations" target="_blank">Fast Generative Machine Learning Simulations for High Energy Physics experiments at ALICE, CERN</a>
+* Application of Dynamic Neural Networks for Deep Generative models in Simulations for High Energy Physics Experiments at ALICE, CERN
 
 ### Latest achievements 🏆
-* <a href="https://www.linkedin.com/posts/rokwojtek_fakejobhunter-adsdetect-uknf-activity-7066403449067712513-Ngvo?utm_source=share&utm_medium=member_desktop" target="_blank">Supervision Hackathon 2023 Warsaw</a> - 3rd place - **Solution for detecting fraudulent ads among sites and browser queries**
+* Defended Bachelor Thesis with honors in <a href="https://github.com/patrick-bedkowski/Generative-Models-for-CERN-Fast-Simulations" target="_blank">Fast Generative Machine Learning Simulations for High Energy Physics experiments at ALICE, CERN</a>. <a href="https://www.linkedin.com/posts/patryk-bedkowski_generativeai-activity-7163174091519209472-Bz2Q?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin post</a>.
 
 ![](https://komarev.com/ghpvc/?username=patrick-bedkowski)
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patryk-bedkowski/)
