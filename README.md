@@ -37,11 +37,13 @@
 <table>
   <tr>
     <td>Deep Generative Models for Proton Zero Degree Calorimeter Simulations in ALICE, CERN, PPRAI 2024 Conference</td>
-    <td>Accepted. Final version to be published</td>
+    <td>
+      <a href="https://pp-rai.pl/en/general-information/best-paper-award" target="_blank">Awarded **Best Paper Award Finalists**</a>
+    </td>
   </tr>
   <tr>
     <td>Reproducing results for Adaptive Stochastic Variance Reduction for Non-convex Finite-Sum Minimization (<b>AdaSPIDER</b>)</td>
-    <td><a href="adaptive_stochastic_variance.pdf" target="_blank">Reproducibility Challenge 2022</a>
+    <td><a href="adaptive_stochastic_variance.pdf" target="_blank">Reproducibility Challenge 2022</a></td>
   </tr>
 </table>
 
