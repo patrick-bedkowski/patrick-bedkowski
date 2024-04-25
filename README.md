@@ -38,7 +38,7 @@
   <tr>
     <td>Deep Generative Models for Proton Zero Degree Calorimeter Simulations in ALICE, CERN, PPRAI 2024 Conference</td>
     <td>
-      <a href="https://pp-rai.pl/en/general-information/best-paper-award" target="_blank">Awarded **Best Paper Award Finalists**</a>
+      <a href="https://pp-rai.pl/en/general-information/best-paper-award" target="_blank">Awarded <b>Best Paper Award Finalists</b></a>
     </td>
   </tr>
   <tr>
