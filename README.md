@@ -66,7 +66,7 @@
 </table>
 
 ### Currently working on 🔬
-* Application of Dynamic Neural Networks for Deep Generative models in Simulations for High Energy Physics Experiments at ALICE, CERN
+* <a href="https://github.com/patrick-bedkowski/Generative-DNN-for-Physics-Simulations-CERN/blob/main" target="_blank">Research on Dynamic Neural Networks and its applications for Deep Generative models in Simulations for High Energy Physics Experiments at ALICE, CERN</a>
 
 ### Latest achievements 🏆
 * Defended Bachelor Thesis with honors in <a href="https://github.com/patrick-bedkowski/Generative-Models-for-CERN-Fast-Simulations" target="_blank">Fast Generative Machine Learning Simulations for High Energy Physics experiments at ALICE, CERN</a>. <a href="https://www.linkedin.com/posts/patryk-bedkowski_generativeai-activity-7163174091519209472-Bz2Q?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin post</a>.
